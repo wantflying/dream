@@ -71,9 +71,11 @@
         </div>
       </header>
 
-      {{ if and .Params.Cover site.Params.showSummaryCoverInPost }}
-      <img src="{{ .Params.Cover }}" alt="{{ .Title }}" />
-      {{ end }}
+
+<!--      {{ if and .Params.Cover site.Params.showSummaryCoverInPost }}-->
+<!--      <img src="{{ .Params.Cover }}" alt="{{ .Title }}" />-->
+<!--      {{ end }}-->
+
 
       {{ .Content | emojify }}
 
