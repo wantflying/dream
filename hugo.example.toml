@@ -49,10 +49,10 @@ siteStartYear = 2016
 # stickyNav = true
 # reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
 # collapseNavItems = ["posts", "categories", "tags"]
+# noDefaultSummaryCover = true
 # showTableOfContents = true
 # showSummaryCoverInPost = true
 # showPrevNextPost = true
-# hasTwitterEmbed = true
 
 # [params.navItems]
 
